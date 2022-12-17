@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 import android.graphics.drawable.Drawable;
 
-public class SettingsBoxTypeTypeFragment extends AbstractSelectFragment {
+public class SettingsBoxTypeFragment extends AbstractSelectFragment {
     @Override
     Drawable[] createDrawables() {
         Drawable[] drawables = new Drawable[]{

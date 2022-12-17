@@ -3,12 +3,12 @@ package com.example.myapplication;
 import android.graphics.drawable.Drawable;
 
 
-public class SettingsLineStyleTypeFragment extends AbstractSelectFragment {
+public class SettingsLineStyleFragment extends AbstractSelectFragment {
 
     final int LINE = 0;
     final int BORDER = 1;
     int type;
-    public SettingsLineStyleTypeFragment(int type) {
+    public SettingsLineStyleFragment(int type) {
         this.type = type;
     }
 

@@ -1,11 +1,5 @@
 package com.example.myapplication;
 
-import android.os.Bundle;
-import android.view.View;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-
 
 public class TabsLinesFragment extends AbstractTabFragment {
 
@@ -37,9 +31,9 @@ public class TabsLinesFragment extends AbstractTabFragment {
     ActionInterface[] createActions() {
         ActionInterface[] actions = new ActionInterface[] {
                 ()->{
-                    LocalFragmentManager.setSettingsTypeFragment(main,new SettingsLineTypeTypeFragment(),null);},
+                    LocalFragmentManager.setSettingsTypeFragment(main,new SettingsLineTypeFragment(),null);},
                 ()->{
-                    LocalFragmentManager.setSettingsTypeFragment(main,new SettingsLineStyleTypeFragment(0),null);},
+                    LocalFragmentManager.setSettingsTypeFragment(main,new SettingsLineStyleFragment(0),null);},
                 ()->{
                     LocalFragmentManager.setSettingsTypeFragment(main,new SettingsIncreraseDecreaseFragment("lineWidth"),null);},
                 ()->{
