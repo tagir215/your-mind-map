@@ -18,4 +18,5 @@
 - Kopionti ja liittämistyökalut
 - Keskittämis työkalu
 - Kuvien lisäys mahdollisuus
-- Opin paljon Android Frameworkin työkaluja sekä Javan- ja olio-ohjelmoinnin perusteita. Aloitin projektin useaan kertaan alusta koska minulle tuli ongelmia suoristuskyvyn ja koodin sekavuuden kanssa.
+- Opin paljon Android Frameworkin työkaluja sekä Javan- ja olio-ohjelmoinnin perusteita. Aloitin projektin useaan kertaan alusta koska minulle tuli ongelmia suoristuskyvyn ja koodin sekavuuden kanssa. 
+- Tässä projektissa opin ainakin miten ei kannata tehdä skaalautuvia äppejä.
