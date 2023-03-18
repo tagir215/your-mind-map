@@ -3,7 +3,7 @@
 
 *Java, Android Studio, Xml, Json*
 
-**YourMindMap on ajatuskarttojen luontiin tarkoitettu sovellus. Sovelluksesta löytyy lukuisia työkaluja joissa käyttäjää on huomioitu antamalla hänelle mahdollisimman vapaat kädet. Ajatuskartat sommittautuvat automaattisesti ja niiden soluja on helppoa siirrellä. Yritin tehdä tästä julkaistavan äpin, joten aika suuri osa ajasta meni 90-90 säännön mukaisesti pieniä korjauksia tehdessä**
+**YourMindMap on ajatuskarttojen luontiin tarkoitettu sovellus. Sovelluksesta löytyy lukuisia työkaluja joissa käyttäjää on huomioitu antamalla hänelle mahdollisimman vapaat kädet. Ajatuskartat sommittautuvat automaattisesti ja niiden soluja on helppoa siirrellä. Tässä sovelluksessa on sama määrä työkaluja kuin vataavissa kilpilija sovelluksissa**
 
 - Ajatuskartan automaattinen tilan sommittelu. Kokeilin useita versioita, mutta päädyin laskemaan kaikki koordinaatit täysin matemaattisesti ja piirtämään kaiken canvakselle.
 - Canvas ei piirrä karttaa joka ruudunpäivityksen jälkeen, vaan vain kun käyttäjä päästää irti esimerkiksi liikutettuuan karttaa. Bitmap itse siirtyy sormen mukana, mutta siirtyy takaisin paikoilleen sormen noustessa, jonka jälkeen piirtää kartan uudelleen, mutta ottaen siirretyn matkan huomioon
