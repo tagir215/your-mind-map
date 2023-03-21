@@ -1,5 +1,6 @@
 # YourMindMap
-<img width="1000" alt="mindmapkuvat" src="https://user-images.githubusercontent.com/117892331/225334535-7bde7267-faad-462e-b74a-196fc8fd7286.png">
+<img width="784" alt="mindmapkuvat" src="https://user-images.githubusercontent.com/117892331/226582187-bcfef2e3-260c-40fc-ae75-c442e860d4a5.png">
+
 
 *Java, Android Studio, Xml, Json*
 
